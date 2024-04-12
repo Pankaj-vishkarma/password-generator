@@ -1,0 +1,27 @@
+.main{
+    width: 600px;
+    height: 200px;
+    background-color: aqua;
+    border-radius: 10px;
+    position: relative;
+    text-align: center;
+    justify-content: center;
+}
+.input-box{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    padding-top: 30px;
+}
+.check-box{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    padding-top: 30px;
+    margin: 10px;
+}
+.range{
+    text-align: center;
+    justify-content: center;
+    padding-top: 35px;
+}
